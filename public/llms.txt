@@ -1,0 +1,61 @@
+# אושר מחשבים — Generative Engine Optimization Map
+
+> A שירותי תיקון טכנולוגיה ומסחר אלקטרוני business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-66359c3f.zappy5.app
+שירותי טכנאי מחשבים עד הבית מקצועיים ומהירים. תיקון מחשב נייד, החלפת סוללה ותיקון מסך במקום. התקשרו עכשיו!
+
+### שירותים
+https://-66359c3f.zappy5.app/services
+גלו את מגוון שירותי תיקון מחשב נייד שלנו: תיקון מסך, החלפת סוללה, שדרוגים ועוד. טכנאי מחשבים עד הבית זמין עכשיו!
+
+### אודות
+https://-66359c3f.zappy5.app/about
+הכירו את אושר מחשבים - מובילים בשירותי טכנאי מחשבים עד הבית. ניסיון רב, שירות מקצועי ומחויבות למצוינות.
+
+### צור קשר
+https://-66359c3f.zappy5.app/contact
+צרו קשר עם אושר מחשבים לשירותי טכנאי מחשבים עד הבית מהירים. תיקון מחשב נייד, החלפת סוללה ותיקון מסך. זמינים עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-66359c3f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-66359c3f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-66359c3f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אושר מחשבים
+אושר מחשבים is a business in the שירותי תיקון טכנולוגיה ומסחר אלקטרוני industry.
+
+## Target Audience
+- חובבי טכנולוגיה
+- אנשי מקצוע עסוקים
+- בעלי עסקים קטנים
+- סטודנטים
+- משתמשי משרד ביתי
+
+## Industry
+שירותי תיקון טכנולוגיה ומסחר אלקטרוני
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-66359c3f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-66359c3f.zappy5.app/robots.txt
